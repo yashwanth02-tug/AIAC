@@ -1,0 +1,8 @@
+# User Data (Anonymized)
+name: yash
+age: 23
+email: y***@gmail.com
+phone: ***98
+address: tydfi
+# Password Hash (for protection)
+password_hash: 5f401482393df0be22084a463a2909ee378ddf506e3ea17fa9d1b0b87e336c6c
